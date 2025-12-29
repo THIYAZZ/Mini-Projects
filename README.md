@@ -1,23 +1,24 @@
-# Mini Projects
+# Fake News Detection
 
-This repository contains a collection of mini projects developed to gain
-hands-on experience in Python, Machine Learning, and Artificial Intelligence.
+This project is a simple machine learning-based application that classifies
+news text as fake or real using basic NLP techniques.
 
-## Projects Included
-- Student Result Analyzer
-- Movie Recommendation System
-- Fake News Detection
-- Weather Application
-- Resume Skill Matcher
+## Features
+- Classifies news as Fake or Real
+- Uses TF-IDF for text vectorization
+- Applies Logistic Regression model
 
 ## Technologies Used
 - Python
-- NumPy
 - Pandas
 - Scikit-learn
-- API integration
-- Basic NLP techniques
+- Natural Language Processing (NLP)
+
+## How It Works
+1. News text is converted into numerical features using TF-IDF.
+2. A Logistic Regression model is trained on labeled data.
+3. The model predicts whether a given news text is fake or real.
 
 ## Purpose
-These projects were developed to strengthen programming logic,
-problem-solving skills, and practical understanding of AI concepts.
+This project was developed to understand basic NLP concepts
+and machine learning classification techniques.
