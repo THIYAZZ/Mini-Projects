@@ -1,23 +1,22 @@
-# Mini Projects
+# Movie Recommendation System
 
-This repository contains a collection of mini projects developed to gain
-hands-on experience in Python, Machine Learning, and Artificial Intelligence.
+This project is a simple movie recommendation system developed using Python.
+It recommends movies to users based on their preferred genre.
 
-## Projects Included
-- Student Result Analyzer
-- Movie Recommendation System
-- Fake News Detection
-- Weather Application
-- Resume Skill Matcher
+## Features
+- Genre-based movie recommendations
+- Simple and easy-to-understand logic
+- Uses a small movie dataset
 
 ## Technologies Used
 - Python
-- NumPy
 - Pandas
-- Scikit-learn
-- API integration
-- Basic NLP techniques
+
+## How It Works
+1. The program stores movie names and genres.
+2. User provides a preferred genre.
+3. Movies matching the genre are recommended.
 
 ## Purpose
-These projects were developed to strengthen programming logic,
-problem-solving skills, and practical understanding of AI concepts.
+This project was created to understand the basic working of
+recommendation systems and data filtering using Python.
