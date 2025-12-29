@@ -1,23 +1,23 @@
-# Mini Projects
+# Resume Skill Matcher
 
-This repository contains a collection of mini projects developed to gain
-hands-on experience in Python, Machine Learning, and Artificial Intelligence.
+This project compares resume skills with job description skills
+and calculates a match percentage.
 
-## Projects Included
-- Student Result Analyzer
-- Movie Recommendation System
-- Fake News Detection
-- Weather Application
-- Resume Skill Matcher
+## Features
+- Matches resume skills with job requirements
+- Displays missing skills
+- Calculates skill match percentage
 
 ## Technologies Used
 - Python
-- NumPy
-- Pandas
-- Scikit-learn
-- API integration
-- Basic NLP techniques
+- Basic text processing
+
+## How It Works
+1. User enters resume skills.
+2. User enters job required skills.
+3. Skills are compared using set operations.
+4. Match percentage is calculated.
 
 ## Purpose
-These projects were developed to strengthen programming logic,
-problem-solving skills, and practical understanding of AI concepts.
+This project was developed to understand basic NLP logic
+and real-world job skill matching.
