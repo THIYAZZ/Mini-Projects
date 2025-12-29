@@ -1,23 +1,23 @@
-# Mini Projects
+# Weather Application
 
-This repository contains a collection of mini projects developed to gain
-hands-on experience in Python, Machine Learning, and Artificial Intelligence.
+This project is a simple Python-based weather application that fetches
+real-time weather data for a given city using an external API.
 
-## Projects Included
-- Student Result Analyzer
-- Movie Recommendation System
-- Fake News Detection
-- Weather Application
-- Resume Skill Matcher
+## Features
+- Displays current temperature
+- Shows humidity and weather condition
+- Fetches real-time data using API
 
 ## Technologies Used
 - Python
-- NumPy
-- Pandas
-- Scikit-learn
 - API integration
-- Basic NLP techniques
+- Requests library
+
+## How It Works
+1. User enters a city name.
+2. The application sends a request to the weather API.
+3. Weather details are retrieved and displayed.
 
 ## Purpose
-These projects were developed to strengthen programming logic,
-problem-solving skills, and practical understanding of AI concepts.
+This project was developed to understand API integration
+and real-time data handling using Python.
